@@ -680,3 +680,13 @@ Script Stack (0 frames):
 [2019.11.23-19.43.30:137][109]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
 [2019.11.23-19.43.30:888][109]EditorErrors: Warning: No assets to check in!
 [2019.11.23-19.44.08:813][347]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F7B09558-4EF7-0F73-2136-BDBB6D1464D9}
+[2019.11.23-19.52.30:785][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-19.53.00:350][854]LogSlate: Window 'Source Control Login' being destroyed
+[2019.11.23-19.53.01:887][906]LogUObjectHash: Compacting FUObjectHashTables data took  19.28ms
+[2019.11.23-19.53.03:832][942]LogSlate: Took 0.001003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.23-19.53.03:977][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.11.23-19.53.04:932][942]LogSavePackage: Moving '../../../../../../Users/Maxwell/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/2DSideScrollerExampleMapEEFA3E334F41F2673ECC2AB36B2EB058.tmp' to '../../../../../../Users/Maxwell/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.11.23-19.53.05:447][942]LogSavePackage: Moving '../../../../../../Users/Maxwell/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/2DSideScrollerExampleMap_BuiltDa657CC511433724FB65FEC1B29A5AED4A.tmp' to '../../../../../../Users/Maxwell/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.11.23-19.53.06:163][960]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.11.23-19.53.10:281][109]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.11.23-19.53.14:440][109]LogSlate: Window 'Submit Files' being destroyed
