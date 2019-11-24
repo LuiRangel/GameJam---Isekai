@@ -3100,3 +3100,869 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.24-21.58.42:857][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
 [2019.11.24-21.58.42:905][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
 [2019.11.24-21.58.42:920][868]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.11.24-22.13.52:767][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.15.56:937][488]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2019.11.24-22.16.32:056][312]BlueprintLog: New page: Compile HUD
+[2019.11.24-22.16.32:478][312]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.11.24-22.16.42:396][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.17.45:144][416]BlueprintLog: New page: Compile HUD
+[2019.11.24-22.17.45:280][416]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2019.11.24-22.17.49:518][662]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.11.24-22.17.51:041][662]LogSlate: Window 'Save Content' being destroyed
+[2019.11.24-22.17.51:160][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/UI/HUD.uasset" SILENT=true
+[2019.11.24-22.17.51:171][662]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/HUD4565934649B850855ACB70806ECD9F59.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/UI/HUD.uasset'
+[2019.11.24-22.17.57:005][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.19.32:146][529]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.19.32:164][529]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.19.42:689][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.19.52:521][725]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2019.11.24-22.21.21:820][552]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.24-22.21.28:396][933]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueprintsAndMaps/Blueprints/HUD.HUD
+[2019.11.24-22.22.12:170][518]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.24-22.23.05:069][ 28]LogBlueprint: Error: [Compiler BP_HUD] Spawn node  Create Widget  must have a class specified.
+[2019.11.24-22.23.05:443][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2019.11.24-22.23.05:470][ 28]LogMetaData: Removing '/Game/BlueprintsAndMaps/Blueprints/BP_HUD.BP_HUD:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BlueprintsAndMaps/Blueprints/HUD.PackageMetaData'
+[2019.11.24-22.23.05:471][ 28]LogMetaData: Removing '/Game/BlueprintsAndMaps/Blueprints/BP_HUD.SKEL_BP_HUD_C' ref from Metadata '/Game/BlueprintsAndMaps/Blueprints/HUD.PackageMetaData'
+[2019.11.24-22.23.05:471][ 28]LogMetaData: Removing '/Game/BlueprintsAndMaps/Blueprints/BP_HUD.BP_HUD_C' ref from Metadata '/Game/BlueprintsAndMaps/Blueprints/HUD.PackageMetaData'
+[2019.11.24-22.23.05:471][ 28]LogMetaData: Removing '/Game/BlueprintsAndMaps/Blueprints/BP_HUD.BP_HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BlueprintsAndMaps/Blueprints/HUD.PackageMetaData'
+[2019.11.24-22.23.05:471][ 28]LogMetaData: Removing '/Game/BlueprintsAndMaps/Blueprints/BP_HUD.BP_HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BlueprintsAndMaps/Blueprints/HUD.PackageMetaData'
+[2019.11.24-22.23.05:471][ 28]LogMetaData: Removing '/Game/BlueprintsAndMaps/Blueprints/BP_HUD.BP_HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BlueprintsAndMaps/Blueprints/HUD.PackageMetaData'
+[2019.11.24-22.23.05:542][ 28]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_HUDDD764CA5432523B5602E2A8C7D3CA933.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/BP_HUD.uasset'
+[2019.11.24-22.23.06:127][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.11.24-22.23.06:173][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.11.24-22.23.06:213][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.24-22.23.13:503][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.23.18:179][740]Cmd: TRANSACTION UNDO
+[2019.11.24-22.23.18:179][740]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.24-22.23.29:418][403]Cmd: TRANSACTION UNDO
+[2019.11.24-22.23.29:418][403]LogEditorTransaction: Undo Move Node
+[2019.11.24-22.23.39:212][980]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.24-22.23.43:831][253]BlueprintLog: New page: Compile BP_HUD
+[2019.11.24-22.23.44:112][253]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2019.11.24-22.23.45:389][329]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.23.45:444][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.23.45:444][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.23.45:444][329]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:23:45 AM)
+[2019.11.24-22.23.45:444][329]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.23.45:448][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003233s)
+[2019.11.24-22.23.45:449][329]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.23.45:449][329]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2019.11.24-22.23.45:449][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004327s)
+[2019.11.24-22.23.45:492][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.11.24-22.23.45:496][329]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.23.45:505][329]LogInit: FAudioDevice initialized.
+[2019.11.24-22.23.45:508][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.23.45:508][329]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.23.45:509][329]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.23.45
+[2019.11.24-22.23.45:510][329]LogWorld: Bringing up level for play took: 0.001639
+[2019.11.24-22.23.45:510][329]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2019.11.24-22.23.45:514][329]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 0.614
+[2019.11.24-22.23.45:514][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.23.47:260][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.23.47:260][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.23.47:260][432]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.23.47:274][432]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.23.47:277][432]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.23.47:304][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.23.47:304][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.23.47:356][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.11.24-22.23.47:372][433]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2019.11.24-22.24.13:511][132]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.24-22.24.18:071][399]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.24.18:096][399]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.24.18:096][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.24.18:096][399]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:24:18 AM)
+[2019.11.24-22.24.18:096][399]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.24.18:100][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003367s)
+[2019.11.24-22.24.18:100][399]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.24.18:101][399]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2019.11.24-22.24.18:101][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004458s)
+[2019.11.24-22.24.18:148][399]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.24-22.24.18:150][399]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.24.18:158][399]LogInit: FAudioDevice initialized.
+[2019.11.24-22.24.18:160][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.24.18:160][399]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.24.18:162][399]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.24.18
+[2019.11.24-22.24.18:162][399]LogWorld: Bringing up level for play took: 0.001330
+[2019.11.24-22.24.18:162][399]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2019.11.24-22.24.18:168][399]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.733
+[2019.11.24-22.24.18:168][399]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.24.19:331][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.24.19:331][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.24.19:331][467]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.24.19:345][467]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.24.19:350][467]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.24.19:356][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.24.19:356][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.24.19:413][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.11.24-22.24.19:430][468]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.11.24-22.25.08:604][206]BlueprintLog: New page: Compile BP_HUD
+[2019.11.24-22.25.09:079][206]LogBlueprint: Error: [Compiler BP_HUD] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.11.24-22.25.09:332][206]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.11.24-22.25.21:177][722]BlueprintLog: New page: Compile BP_HUD
+[2019.11.24-22.25.21:437][722]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.11.24-22.25.22:766][798]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.25.22:817][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.25.22:817][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.25.22:817][798]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:25:22 AM)
+[2019.11.24-22.25.22:817][798]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.25.22:820][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003194s)
+[2019.11.24-22.25.22:821][798]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.25.22:821][798]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2019.11.24-22.25.22:822][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004284s)
+[2019.11.24-22.25.22:868][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.11.24-22.25.22:870][798]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.25.22:877][798]LogInit: FAudioDevice initialized.
+[2019.11.24-22.25.22:881][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.25.22:881][798]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.25.22:882][798]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.25.22
+[2019.11.24-22.25.22:883][798]LogWorld: Bringing up level for play took: 0.002104
+[2019.11.24-22.25.22:884][798]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2019.11.24-22.25.22:889][798]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.012
+[2019.11.24-22.25.22:889][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.25.48:532][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.25.48:533][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.25.48:533][331]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.25.48:548][331]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.25.48:554][331]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.25.48:567][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.25.48:567][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.25.48:628][331]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2019.11.24-22.25.48:649][332]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.11.24-22.25.51:482][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.11.24-22.25.52:851][494]LogSlate: Window 'Save Content' being destroyed
+[2019.11.24-22.25.52:978][494]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/2DSideScrollerGameModeDFDF059F45F256B9467FE0A7A4CB8242.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/2DSideScrollerGameMode.uasset'
+[2019.11.24-22.25.53:029][494]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_HUDEC19DD7B47B781955CE314AACE9405D5.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/BP_HUD.uasset'
+[2019.11.24-22.33.37:330][784]AssetReimport: New page: Outstanding source content changes 6:33:37 AM
+[2019.11.24-22.33.37:363][785]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Idle 3.png)
+[2019.11.24-22.33.37:632][786]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Idle 1.png)
+[2019.11.24-22.33.37:723][787]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Idle 2.png)
+[2019.11.24-22.33.38:122][788]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Idle_371E409EC43C129B4391F58B973D1CFFC.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Idle_3.uasset'
+[2019.11.24-22.33.38:393][788]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Idle_1B7CDCB3543109AE8523D4F8BC155A13E.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Idle_1.uasset'
+[2019.11.24-22.33.38:640][788]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Idle_2A018472440237B9CA38352A15CBBB37A.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Idle_2.uasset'
+[2019.11.24-22.33.41:893][965]AssetReimport: Importing new asset /Game/ArtAssets/Textures/Idle_3.
+[2019.11.24-22.33.41:893][965]AssetReimport: Importing new asset /Game/ArtAssets/Textures/Idle_1.
+[2019.11.24-22.33.41:893][965]AssetReimport: Importing new asset /Game/ArtAssets/Textures/Idle_2.
+[2019.11.24-22.34.31:787][875]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.11.24-22.34.59:936][511]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Idle_1_Sprite432C012E4A9867EA995F8CA32E80553B.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Idle_1_Sprite.uasset'
+[2019.11.24-22.35.00:455][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.24-22.35.00:502][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.11.24-22.35.00:543][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.11.24-22.35.05:965][791]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Idle_2_SpriteE4C91F17439510724AEFBFA96B7507F3.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Idle_2_Sprite.uasset'
+[2019.11.24-22.35.06:741][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.11.24-22.35.06:791][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.11.24-22.35.06:834][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.11.24-22.35.13:144][121]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Idle_3_SpriteB68685C04210A343211BB7AF0A5C6609.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Idle_3_Sprite.uasset'
+[2019.11.24-22.35.13:656][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.11.24-22.35.13:699][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.11.24-22.35.13:742][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.11.24-22.35.22:570][607]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Player_Idle7176C34F47E9B10B0143CB85701A0348.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Player_Idle.uasset'
+[2019.11.24-22.35.23:066][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.11.24-22.35.23:113][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.11.24-22.35.23:155][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.11.24-22.35.26:148][784]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/ArtAssets/Sprites/Player_Idle.Player_Idle
+[2019.11.24-22.35.26:706][785]LogRenderer: Reallocating scene render targets to support 1528x828 Format 10 NumSamples 1 (Frame:1).
+[2019.11.24-22.37.00:721][410]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Player_IdleF34494D6475C6CD4E4B3B6AFBE4B4311.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Player_Idle.uasset'
+[2019.11.24-22.37.10:356][978]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Player_IdleCBE9A997489F02F25359F58A630E4A7B.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Player_Idle.uasset'
+[2019.11.24-22.37.21:787][663]LogEditorViewport: Clicking on Actor (LMB): BP_EnemyC_C (BP_EnemyC)
+[2019.11.24-22.37.22:715][714]LogEditorViewport: Clicking on Actor (LMB): BP_Player_C (2DSideScrollerCharacter)
+[2019.11.24-22.37.32:061][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.37.33:823][377]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueprintsAndMaps/Blueprints/BP_Player.BP_Player
+[2019.11.24-22.38.14:287][751]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.38.14:675][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.11.24-22.38.31:766][762]Cmd: TRANSACTION UNDO
+[2019.11.24-22.38.31:766][762]LogEditorTransaction: Undo Scale Actors
+[2019.11.24-22.38.57:105][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.39.15:240][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.39.15:289][352]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.39.15:682][352]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.11.24-22.39.19:779][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.24-22.39.23:528][814]LogEditorTransaction: Undo Edit Source Flipbook
+[2019.11.24-22.39.23:536][814]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_12:PersistentLevel.BP_Player_C_0.CollisionCylinder) Component already registered.
+[2019.11.24-22.39.24:188][841]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.24-22.39.24:680][869]LogEditorTransaction: Undo Edit Source Flipbook
+[2019.11.24-22.39.24:688][869]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_12:PersistentLevel.BP_Player_C_0.CollisionCylinder) Component already registered.
+[2019.11.24-22.39.30:870][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.39.55:887][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.40.32:131][880]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.40.32:598][880]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2019.11.24-22.40.40:631][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.40.40:698][352]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.40.40:725][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.40.40:725][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.40.40:725][352]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:40:40 AM)
+[2019.11.24-22.40.40:725][352]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.40.40:729][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003689s)
+[2019.11.24-22.40.40:730][352]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.40.40:730][352]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2019.11.24-22.40.40:730][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.005036s)
+[2019.11.24-22.40.40:778][352]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2019.11.24-22.40.40:782][352]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.40.40:790][352]LogInit: FAudioDevice initialized.
+[2019.11.24-22.40.40:793][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.40.40:793][352]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.40.40:795][352]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.40.40
+[2019.11.24-22.40.40:795][352]LogWorld: Bringing up level for play took: 0.001411
+[2019.11.24-22.40.40:795][352]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2019.11.24-22.40.40:802][352]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.099
+[2019.11.24-22.40.40:802][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.40.42:622][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.40.42:622][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.40.42:622][458]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.40.42:634][458]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.40.42:638][458]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.40.42:649][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.40.42:650][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.40.42:707][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.11.24-22.40.42:725][459]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2019.11.24-22.40.52:267][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.40.52:350][ 26]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.40.52:375][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.40.52:375][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.40.52:375][ 26]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:40:52 AM)
+[2019.11.24-22.40.52:376][ 26]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.40.52:379][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003020s)
+[2019.11.24-22.40.52:379][ 26]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.40.52:380][ 26]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2019.11.24-22.40.52:380][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004174s)
+[2019.11.24-22.40.52:432][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.11.24-22.40.52:435][ 26]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.40.52:442][ 26]LogInit: FAudioDevice initialized.
+[2019.11.24-22.40.52:445][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.40.52:446][ 26]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.40.52:447][ 26]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.40.52
+[2019.11.24-22.40.52:448][ 26]LogWorld: Bringing up level for play took: 0.001562
+[2019.11.24-22.40.52:448][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2019.11.24-22.40.52:454][ 26]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.448
+[2019.11.24-22.40.52:454][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.40.56:446][263]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.40.56:446][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.40.56:446][263]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.40.56:460][263]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.40.56:463][263]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.40.56:476][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.40.56:476][263]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.40.56:555][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.11.24-22.40.56:577][264]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2019.11.24-22.41.13:421][271]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.41.13:735][271]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.11.24-22.41.15:311][361]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.41.15:336][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.41.15:336][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.41.15:336][361]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:41:15 AM)
+[2019.11.24-22.41.15:337][361]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.41.15:340][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003535s)
+[2019.11.24-22.41.15:341][361]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.41.15:341][361]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2019.11.24-22.41.15:341][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004583s)
+[2019.11.24-22.41.15:387][361]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.11.24-22.41.15:391][361]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.41.15:398][361]LogInit: FAudioDevice initialized.
+[2019.11.24-22.41.15:401][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.41.15:401][361]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.41.15:403][361]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.41.15
+[2019.11.24-22.41.15:404][361]LogWorld: Bringing up level for play took: 0.001448
+[2019.11.24-22.41.15:404][361]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2019.11.24-22.41.15:409][361]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 0.509
+[2019.11.24-22.41.15:410][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.41.18:683][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.41.18:683][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.41.18:684][555]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.41.18:728][555]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.41.18:732][555]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.41.18:755][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.41.18:756][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.41.18:812][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.11.24-22.41.18:834][556]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2019.11.24-22.42.00:940][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.24-22.42.01:439][184]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Base_Map1_Auto5A2FAB55B42DD33D253729F96B0EC4F23.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Autosaves/Game/BlueprintsAndMaps/Maps/Base_Map1_Auto5.umap'
+[2019.11.24-22.42.01:444][184]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlueprintsAndMaps/Maps/Base_Map1' took 0.554
+[2019.11.24-22.42.01:444][184]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.554
+[2019.11.24-22.42.01:447][184]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintsAndMaps/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.11.24-22.42.01:447][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintsAndMaps/Blueprints/BP_Player]
+[2019.11.24-22.42.01:532][184]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_Player_Auto578B8A644427862A43009EA845AD0AA9E.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Autosaves/Game/BlueprintsAndMaps/Blueprints/BP_Player_Auto5.uasset'
+[2019.11.24-22.42.01:534][184]LogFileHelpers: Auto-saving content packages took 0.087
+[2019.11.24-22.42.08:753][273]AssetReimport: New page: Outstanding source content changes 6:42:08 AM
+[2019.11.24-22.42.08:755][273]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Run 2.png)
+[2019.11.24-22.42.08:987][274]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Run 3.png)
+[2019.11.24-22.42.09:104][275]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Run 4.png)
+[2019.11.24-22.42.09:337][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Run 1.png)
+[2019.11.24-22.42.09:756][277]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_23C4A915043D31680A319DDAE0FD595C0.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Run_2.uasset'
+[2019.11.24-22.42.10:223][277]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_38CD3A7B140F1AED2D44C76B00E8ED821.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Run_3.uasset'
+[2019.11.24-22.42.10:575][277]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_460AB4E8442443088E72C11B5AE1A91BE.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Run_4.uasset'
+[2019.11.24-22.42.10:947][277]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_13B0C80B24CEACB7AFFFE1A9C9FB373C6.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Run_1.uasset'
+[2019.11.24-22.42.14:182][455]AssetReimport: Importing new asset /Game/ArtAssets/Textures/Run_2.
+[2019.11.24-22.42.14:182][455]AssetReimport: Importing new asset /Game/ArtAssets/Textures/Run_3.
+[2019.11.24-22.42.14:182][455]AssetReimport: Importing new asset /Game/ArtAssets/Textures/Run_4.
+[2019.11.24-22.42.14:182][455]AssetReimport: Importing new asset /Game/ArtAssets/Textures/Run_1.
+[2019.11.24-22.42.41:966][  8]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_1_Sprite02D9A5E443CDC81E88E3B6918CD151FC.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Run_1_Sprite.uasset'
+[2019.11.24-22.42.42:188][  8]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_2_Sprite5F8087FF4E8A987441C108BF90DDAC92.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Run_2_Sprite.uasset'
+[2019.11.24-22.42.42:451][  8]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_3_Sprite343D6D334313C498FE3EB7B3906110B8.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Run_3_Sprite.uasset'
+[2019.11.24-22.42.42:659][  8]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_4_SpriteDB5587A0405CB5777263AD829C526D59.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Run_4_Sprite.uasset'
+[2019.11.24-22.42.43:828][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.11.24-22.42.43:873][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.11.24-22.42.43:916][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.11.24-22.42.43:958][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.24-22.42.44:007][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.11.24-22.42.44:050][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.11.24-22.43.24:926][389]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Idle_1_Sprite9773DF2D422D6F9196B63E8ADFC0952C.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/PlayerIdleFrames/Idle_1_Sprite.uasset'
+[2019.11.24-22.43.25:150][389]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Idle_2_Sprite8D7922094E484A992C96CE8F9C990C73.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/PlayerIdleFrames/Idle_2_Sprite.uasset'
+[2019.11.24-22.43.25:392][389]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Idle_3_SpriteD4A3A09B4FD5ACDBA8EB1EA7EF1B510F.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/PlayerIdleFrames/Idle_3_Sprite.uasset'
+[2019.11.24-22.43.26:801][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.11.24-22.43.26:844][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.11.24-22.43.26:886][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.24-22.43.26:936][389]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.11.24-22.43.26:980][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.11.24-22.43.27:151][389]SourceControl: rm 'TrappednAnotherWorld/Content/ArtAssets/Sprites/Idle_1_Sprite.uasset'
+[2019.11.24-22.43.27:151][389]SourceControl: rm 'TrappednAnotherWorld/Content/ArtAssets/Sprites/Idle_2_Sprite.uasset'
+[2019.11.24-22.43.27:151][389]SourceControl: rm 'TrappednAnotherWorld/Content/ArtAssets/Sprites/Idle_3_Sprite.uasset'
+[2019.11.24-22.43.27:280][389]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Player_Idle20E5104F4F866A4AEA0AFD84A040D391.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Player_Idle.uasset'
+[2019.11.24-22.44.01:987][398]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_1_Sprite720C62BF4112D2F9AD963D9392E21149.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/PlayerRunFrames/Run_1_Sprite.uasset'
+[2019.11.24-22.44.02:270][398]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_2_Sprite993DEA0E4F41A562624814B0F509F968.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/PlayerRunFrames/Run_2_Sprite.uasset'
+[2019.11.24-22.44.02:490][398]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_3_Sprite4913E92D48B4DF5E979FF5BCCB84BA95.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/PlayerRunFrames/Run_3_Sprite.uasset'
+[2019.11.24-22.44.02:660][398]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Run_4_SpriteA88375AF431F0941715CA798E45BE2D6.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/PlayerRunFrames/Run_4_Sprite.uasset'
+[2019.11.24-22.44.04:106][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.11.24-22.44.04:150][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.11.24-22.44.04:194][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.24-22.44.04:236][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.24-22.44.04:285][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.11.24-22.44.04:328][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.11.24-22.44.04:458][398]SourceControl: rm 'TrappednAnotherWorld/Content/ArtAssets/Sprites/Run_1_Sprite.uasset'
+[2019.11.24-22.44.04:458][398]SourceControl: rm 'TrappednAnotherWorld/Content/ArtAssets/Sprites/Run_2_Sprite.uasset'
+[2019.11.24-22.44.04:458][398]SourceControl: rm 'TrappednAnotherWorld/Content/ArtAssets/Sprites/Run_3_Sprite.uasset'
+[2019.11.24-22.44.04:458][398]SourceControl: rm 'TrappednAnotherWorld/Content/ArtAssets/Sprites/Run_4_Sprite.uasset'
+[2019.11.24-22.44.23:519][489]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/IdleAnimationB626BA7C417E3C65C97410A31932A5D3.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/FlipBooks/IdleAnimation.uasset'
+[2019.11.24-22.44.23:674][489]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/IdleAnimationF09CAA8340BBE11C238B84A742E8AC52.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/IdleAnimation.uasset'
+[2019.11.24-22.44.27:152][636]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Player_IdleF060433D4FF49E85FC9D24B1C3A97CDE.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/FlipBooks/Player_Idle.uasset'
+[2019.11.24-22.44.28:051][636]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.11.24-22.44.28:103][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.11.24-22.44.28:147][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.11.24-22.44.28:290][636]SourceControl: rm 'TrappednAnotherWorld/Content/ArtAssets/Sprites/Player_Idle.uasset'
+[2019.11.24-22.44.32:615][853]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/RunningAnimationFB756CDD458F9736817F259E57960513.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/FlipBooks/RunningAnimation.uasset'
+[2019.11.24-22.44.32:817][853]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/RunningAnimation57DD0BC44634E11B3B09CD853C8DD524.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/RunningAnimation.uasset'
+[2019.11.24-22.44.49:170][809]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.11.24-22.45.03:045][596]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/PlayerRun0AE571DF4EA673FA73FA01900240C14B.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/FlipBooks/PlayerRun.uasset'
+[2019.11.24-22.45.03:573][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.11.24-22.45.03:623][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.11.24-22.45.03:667][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.11.24-22.45.13:531][142]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Player_Run42BB798C4FDCC0ACF784619B644CA180.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/FlipBooks/Player_Run.uasset'
+[2019.11.24-22.45.14:118][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.11.24-22.45.14:166][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.11.24-22.45.14:209][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.24-22.45.14:343][142]SourceControl: rm 'TrappednAnotherWorld/Content/ArtAssets/Sprites/FlipBooks/PlayerRun.uasset'
+[2019.11.24-22.45.15:441][205]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/ArtAssets/Sprites/FlipBooks/Player_Run.Player_Run
+[2019.11.24-22.46.41:522][351]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Player_RunD79278244C121A08C4353F8E8DF60E8E.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/FlipBooks/Player_Run.uasset'
+[2019.11.24-22.46.48:181][745]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.46.48:464][745]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.11.24-22.46.50:175][843]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.46.50:201][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.46.50:270][843]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.24-22.46.50:271][843]LogPlayLevel: [PlayLevel] Compiling BP_EnemyC before play...
+[2019.11.24-22.46.50:508][843]LogPlayLevel: [PlayLevel] Compiling BP_EnemyA before play...
+[2019.11.24-22.46.50:524][843]LogPlayLevel: [PlayLevel] Compiling BP_EnemyB before play...
+[2019.11.24-22.46.50:579][843]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2019.11.24-22.46.50:580][843]LogPlayLevel: PlayLevel: Blueprint regeneration took 379 ms (3 blueprints)
+[2019.11.24-22.46.50:580][843]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:46:50 AM)
+[2019.11.24-22.46.50:580][843]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.46.50:584][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003287s)
+[2019.11.24-22.46.50:585][843]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.46.50:585][843]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2019.11.24-22.46.50:585][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004588s)
+[2019.11.24-22.46.50:629][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.11.24-22.46.50:631][843]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.46.50:639][843]LogInit: FAudioDevice initialized.
+[2019.11.24-22.46.50:642][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.46.50:642][843]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.46.50:644][843]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.46.50
+[2019.11.24-22.46.50:645][843]LogWorld: Bringing up level for play took: 0.001534
+[2019.11.24-22.46.50:645][843]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2019.11.24-22.46.50:650][843]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.251
+[2019.11.24-22.46.50:651][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.46.55:716][145]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.46.55:716][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.46.55:716][145]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.46.55:731][145]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.46.55:734][145]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.46.55:760][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.46.55:760][145]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.46.55:823][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.11.24-22.46.55:844][146]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2019.11.24-22.47.43:400][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.48.18:237][ 80]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.48.18:265][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.48.18:265][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.48.18:266][ 80]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:48:18 AM)
+[2019.11.24-22.48.18:266][ 80]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.48.18:270][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004245s)
+[2019.11.24-22.48.18:271][ 80]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.48.18:272][ 80]LogPlayLevel: PIE: World Init took: (0.001675s)
+[2019.11.24-22.48.18:272][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.006079s)
+[2019.11.24-22.48.18:325][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.11.24-22.48.18:327][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.48.18:334][ 80]LogInit: FAudioDevice initialized.
+[2019.11.24-22.48.18:338][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.48.18:338][ 80]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.48.18:339][ 80]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.48.18
+[2019.11.24-22.48.18:340][ 80]LogWorld: Bringing up level for play took: 0.001983
+[2019.11.24-22.48.18:341][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2019.11.24-22.48.18:347][ 80]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.554
+[2019.11.24-22.48.18:347][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.48.31:844][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.48.31:844][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.48.31:844][888]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.48.31:896][888]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.48.31:899][888]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.48.31:933][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.48.31:933][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.48.31:993][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.11.24-22.48.32:019][889]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.11.24-22.48.52:656][120]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.48.55:640][293]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/ArtAssets/Sprites/FlipBooks/Player_Run.Player_Run
+[2019.11.24-22.49.24:944][ 39]Cmd: TRANSACTION UNDO
+[2019.11.24-22.49.24:944][ 39]LogEditorTransaction: Undo Change Object Pin Value
+[2019.11.24-22.49.28:886][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.49.35:110][624]Cmd: TRANSACTION REDO
+[2019.11.24-22.49.35:111][624]LogEditorTransaction: Redo Change Object Pin Value
+[2019.11.24-22.49.57:347][938]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.49.57:726][938]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.11.24-22.50.12:354][810]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.50.12:632][810]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.11.24-22.50.20:132][254]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.50.20:412][254]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.11.24-22.51.14:990][507]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.24-22.51.21:114][872]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.51.21:190][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.51.21:190][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.51.21:190][872]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:51:21 AM)
+[2019.11.24-22.51.21:190][872]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.51.21:196][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005768s)
+[2019.11.24-22.51.21:198][872]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.51.21:198][872]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2019.11.24-22.51.21:198][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.007616s)
+[2019.11.24-22.51.21:265][872]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2019.11.24-22.51.21:268][872]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.51.21:277][872]LogInit: FAudioDevice initialized.
+[2019.11.24-22.51.21:280][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.51.21:281][872]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.51.21:283][872]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.51.21
+[2019.11.24-22.51.21:283][872]LogWorld: Bringing up level for play took: 0.001943
+[2019.11.24-22.51.21:284][872]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2019.11.24-22.51.21:290][872]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 0.389
+[2019.11.24-22.51.21:290][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.51.31:150][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.51.31:150][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.51.31:150][458]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.51.31:164][458]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.51.31:168][458]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.51.31:191][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.51.31:192][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.51.31:251][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.11.24-22.51.31:273][459]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2019.11.24-22.51.35:732][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.51.46:274][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.51.46:340][352]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.51.46:641][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.11.24-22.51.54:781][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.51.57:953][ 22]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.51.58:260][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2019.11.24-22.52.03:455][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.52.07:310][560]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.52.07:626][560]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2019.11.24-22.52.12:767][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.52.16:091][ 62]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.52.16:408][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2019.11.24-22.52.19:486][245]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.52.19:513][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.52.19:513][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.52.19:513][245]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:52:19 AM)
+[2019.11.24-22.52.19:513][245]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.52.19:516][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003087s)
+[2019.11.24-22.52.19:517][245]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.52.19:517][245]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2019.11.24-22.52.19:517][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004126s)
+[2019.11.24-22.52.19:562][245]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2019.11.24-22.52.19:566][245]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.52.19:573][245]LogInit: FAudioDevice initialized.
+[2019.11.24-22.52.19:576][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.52.19:576][245]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.52.19:578][245]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.52.19
+[2019.11.24-22.52.19:579][245]LogWorld: Bringing up level for play took: 0.001661
+[2019.11.24-22.52.19:579][245]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2019.11.24-22.52.19:585][245]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 0.683
+[2019.11.24-22.52.19:585][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.52.21:557][361]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.52.21:558][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.52.21:558][361]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.52.21:595][361]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.52.21:598][361]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.52.21:609][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.52.21:610][361]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.52.21:662][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.11.24-22.52.21:680][362]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2019.11.24-22.52.35:664][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.52.38:571][368]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.52.38:874][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.11.24-22.52.41:243][507]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.52.41:269][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.52.41:269][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.52.41:269][507]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:52:41 AM)
+[2019.11.24-22.52.41:269][507]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.52.41:272][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003051s)
+[2019.11.24-22.52.41:273][507]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.52.41:273][507]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2019.11.24-22.52.41:273][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004081s)
+[2019.11.24-22.52.41:325][507]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2019.11.24-22.52.41:328][507]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.52.41:335][507]LogInit: FAudioDevice initialized.
+[2019.11.24-22.52.41:360][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.52.41:361][507]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.52.41:362][507]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.52.41
+[2019.11.24-22.52.41:363][507]LogWorld: Bringing up level for play took: 0.001657
+[2019.11.24-22.52.41:363][507]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2019.11.24-22.52.41:369][507]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 0.468
+[2019.11.24-22.52.41:369][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.53.00:019][624]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.53.00:020][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.53.00:020][624]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.53.00:036][624]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.53.00:041][624]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.53.00:052][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.53.00:052][624]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.53.00:114][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.11.24-22.53.00:138][625]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2019.11.24-22.53.48:949][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.11.24-22.53.49:192][236]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Base_Map1_Auto65A03DFA04A777186E68A939046F46EEB.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Autosaves/Game/BlueprintsAndMaps/Maps/Base_Map1_Auto6.umap'
+[2019.11.24-22.53.49:197][236]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlueprintsAndMaps/Maps/Base_Map1' took 0.296
+[2019.11.24-22.53.49:197][236]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.296
+[2019.11.24-22.53.49:199][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintsAndMaps/Blueprints/BP_EnemyC] ([1] browsable assets)...
+[2019.11.24-22.53.49:199][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintsAndMaps/Blueprints/BP_EnemyC]
+[2019.11.24-22.53.49:303][236]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_EnemyC_Auto65199C74A4673A308F20085B388372CFB.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Autosaves/Game/BlueprintsAndMaps/Blueprints/BP_EnemyC_Auto6.uasset'
+[2019.11.24-22.53.49:305][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintsAndMaps/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.11.24-22.53.49:305][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintsAndMaps/Blueprints/BP_Player]
+[2019.11.24-22.53.49:368][236]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_Player_Auto67EAABBC2438C8B4141492B9555B47FF7.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Autosaves/Game/BlueprintsAndMaps/Blueprints/BP_Player_Auto6.uasset'
+[2019.11.24-22.53.49:387][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintsAndMaps/Blueprints/BP_EnemyA] ([1] browsable assets)...
+[2019.11.24-22.53.49:387][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintsAndMaps/Blueprints/BP_EnemyA]
+[2019.11.24-22.53.49:468][236]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_EnemyA_Auto64C04F9734749E35C10629F89322BB1E8.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Autosaves/Game/BlueprintsAndMaps/Blueprints/BP_EnemyA_Auto6.uasset'
+[2019.11.24-22.53.49:470][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintsAndMaps/Blueprints/BP_EnemyB] ([1] browsable assets)...
+[2019.11.24-22.53.49:470][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintsAndMaps/Blueprints/BP_EnemyB]
+[2019.11.24-22.53.49:537][236]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_EnemyB_Auto6D61A479C451142B3EACD3E9B01644EE1.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Autosaves/Game/BlueprintsAndMaps/Blueprints/BP_EnemyB_Auto6.uasset'
+[2019.11.24-22.53.49:539][236]LogFileHelpers: Auto-saving content packages took 0.341
+[2019.11.24-22.53.52:027][384]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.53.52:054][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.53.52:055][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.53.52:055][384]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:53:52 AM)
+[2019.11.24-22.53.52:057][384]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.53.52:060][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003483s)
+[2019.11.24-22.53.52:061][384]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.53.52:062][384]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2019.11.24-22.53.52:062][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004612s)
+[2019.11.24-22.53.52:105][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.11.24-22.53.52:107][384]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.53.52:114][384]LogInit: FAudioDevice initialized.
+[2019.11.24-22.53.52:118][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.53.52:118][384]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.53.52:119][384]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.53.52
+[2019.11.24-22.53.52:120][384]LogWorld: Bringing up level for play took: 0.001498
+[2019.11.24-22.53.52:120][384]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2019.11.24-22.53.52:126][384]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.775
+[2019.11.24-22.53.52:126][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.54.04:625][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.54.04:625][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.54.04:625][128]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.54.04:640][128]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.54.04:645][128]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.54.04:669][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.54.04:670][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.54.04:734][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.11.24-22.54.04:754][129]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2019.11.24-22.54.11:509][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.56.36:843][151]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.24-22.56.46:508][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.56.49:212][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.56.56:581][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-22.56.56:664][322]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.56.57:042][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.11.24-22.57.07:794][958]BlueprintLog: New page: Compile BP_Player
+[2019.11.24-22.57.08:105][958]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.11.24-22.57.09:769][ 56]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.57.09:795][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.57.09:795][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.57.09:795][ 56]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:57:09 AM)
+[2019.11.24-22.57.09:796][ 56]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.57.09:799][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003169s)
+[2019.11.24-22.57.09:800][ 56]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.57.09:800][ 56]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2019.11.24-22.57.09:800][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004266s)
+[2019.11.24-22.57.09:852][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.11.24-22.57.09:856][ 56]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.57.09:863][ 56]LogInit: FAudioDevice initialized.
+[2019.11.24-22.57.09:866][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.57.09:866][ 56]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.57.09:868][ 56]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.57.09
+[2019.11.24-22.57.09:868][ 56]LogWorld: Bringing up level for play took: 0.001356
+[2019.11.24-22.57.09:868][ 56]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2019.11.24-22.57.09:914][ 56]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 1.014
+[2019.11.24-22.57.09:915][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.57.26:249][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.57.26:249][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.57.26:249][ 33]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.57.26:264][ 33]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.57.26:268][ 33]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.57.26:278][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.57.26:278][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.57.26:343][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.24-22.57.26:361][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2019.11.24-22.58.19:037][824]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-22.58.19:066][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.58.19:066][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-22.58.19:066][824]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 6:58:19 AM)
+[2019.11.24-22.58.19:067][824]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.58.19:070][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003278s)
+[2019.11.24-22.58.19:071][824]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-22.58.19:071][824]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2019.11.24-22.58.19:071][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004445s)
+[2019.11.24-22.58.19:121][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.11.24-22.58.19:123][824]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-22.58.19:131][824]LogInit: FAudioDevice initialized.
+[2019.11.24-22.58.19:135][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.58.19:135][824]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-22.58.19:136][824]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-14.58.19
+[2019.11.24-22.58.19:137][824]LogWorld: Bringing up level for play took: 0.001889
+[2019.11.24-22.58.19:138][824]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2019.11.24-22.58.19:143][824]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 0.243
+[2019.11.24-22.58.19:144][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.58.30:135][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.58.30:135][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-22.58.30:135][479]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-22.58.30:150][479]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-22.58.30:154][479]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-22.58.30:165][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-22.58.30:165][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-22.58.30:225][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.11.24-22.58.30:246][480]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2019.11.24-22.59.47:314][ 18]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.11.24-22.59.48:965][115]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.11.24-22.59.54:775][462]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.11.24-22.59.56:207][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.00.12:291][494]Cmd: DELETE
+[2019.11.24-23.00.12:291][494]Cmd: ACTOR DELETE
+[2019.11.24-23.00.12:304][494]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.11.24-23.00.12:357][494]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.11.24-23.00.12:357][494]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2019.11.24-23.00.12:359][494]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2019.11.24-23.00.21:287][ 27]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2019.11.24-23.00.23:585][160]Cmd: DELETE
+[2019.11.24-23.00.23:585][160]Cmd: ACTOR DELETE
+[2019.11.24-23.00.23:586][160]LogEditorActor: Deleted Actor: TextRenderActor
+[2019.11.24-23.00.23:631][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.24-23.00.23:631][160]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.11.24-23.00.41:069][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.02.00:869][593]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\XxCMGxX\Downloads\Arena Background.png)
+[2019.11.24-23.02.32:350][593]LogSlate: Window 'Message' being destroyed
+[2019.11.24-23.02.35:079][593]LogTexture: Display: Building textures: Arena_Background (BGRA8, 8092X8766)
+[2019.11.24-23.04.09:819][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.11.24-23.04.14:173][718]LogSlate: Window 'Save Content' being destroyed
+[2019.11.24-23.05.15:275][718]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Arena_BackgroundFC58566848AB76D1043C3BBEAFA2AF38.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Textures/Arena_Background.uasset'
+[2019.11.24-23.05.48:300][718]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_EnemyA8A0ECEDA48FB4A53B81F05833963D99C.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/BP_EnemyA.uasset'
+[2019.11.24-23.05.50:181][718]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_EnemyBBA1215624A3CDD958ED66BB6F11ABF18.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/BP_EnemyB.uasset'
+[2019.11.24-23.05.51:931][718]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_EnemyC5F94958C42306029415C25B26CCE1F9A.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/BP_EnemyC.uasset'
+[2019.11.24-23.05.52:448][718]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/BP_PlayerD33C4C604CE965E97C0779AE4AB87F1A.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/BP_Player.uasset'
+[2019.11.24-23.05.52:651][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.11.24-23.05.53:641][718]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Base_Map15B76F0EF499D80C3E42D7188611A9DDE.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Maps/Base_Map1.umap'
+[2019.11.24-23.05.53:802][718]LogFileHelpers: Saving map 'Base_Map1' took 1.304
+[2019.11.24-23.06.29:093][ 74]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Arena_Background_Sprite5E0BDD254F57DE266DF7468E30E299CD.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/ArtAssets/Sprites/Arena_Background_Sprite.uasset'
+[2019.11.24-23.06.29:938][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.11.24-23.06.29:984][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.11.24-23.06.30:028][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.24-23.06.35:799][408]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2019.11.24-23.06.42:951][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.06.44:074][858]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2019.11.24-23.06.54:896][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.06.56:480][582]LogAssetEditorManager: Opening Asset editor for World /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1
+[2019.11.24-23.06.56:524][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.11.24-23.07.00:839][582]LogSlate: Window 'Save Content' being destroyed
+[2019.11.24-23.07.01:900][644]Cmd: TRANSACTION UNDO
+[2019.11.24-23.07.01:900][644]LogEditorTransaction: Undo Set Scale
+[2019.11.24-23.07.01:921][644]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2019.11.24-23.07.02:462][665]Cmd: TRANSACTION UNDO
+[2019.11.24-23.07.02:462][665]LogEditorTransaction: Undo Edit Source Sprite
+[2019.11.24-23.07.02:464][665]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2019.11.24-23.07.06:039][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.07.06:152][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.11.24-23.07.07:666][962]LogAssetEditorManager: Opening Asset editor for World /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1
+[2019.11.24-23.07.07:711][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.24-23.07.07:713][962]Cmd: MAP LOAD FILE="../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Maps/Base_Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.24-23.07.07:713][962]LightingResults: New page: Lighting Build
+[2019.11.24-23.07.07:750][962]LoadErrors: New page: Loading map: Base_Map1.umap
+[2019.11.24-23.07.07:750][962]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.07.07:751][962]MapCheck: New page: Map Check
+[2019.11.24-23.07.07:751][962]LightingResults: New page: Lighting Build
+[2019.11.24-23.07.07:862][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.11.24-23.07.09:507][962]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-23.07.09:839][962]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.24-23.07.09:889][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.11.24-23.07.09:932][962]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.24-23.07.09:932][962]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2019.11.24-23.07.09:934][962]LogFileHelpers: Loading map 'Base_Map1' took 2.223
+[2019.11.24-23.07.13:229][138]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.11.24-23.07.16:623][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.24-23.07.40:045][731]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/ArtAssets/Sprites/Arena_Background_Sprite.Arena_Background_Sprite
+[2019.11.24-23.07.41:631][732]LogRenderer: Reallocating scene render targets to support 1528x956 Format 10 NumSamples 1 (Frame:1).
+[2019.11.24-23.07.50:753][269]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.07.51:691][322]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.07.53:809][445]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.07.55:658][545]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.07.55:665][545]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.07.57:754][664]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.24-23.07.57:754][664]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.08.00:453][753]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.24-23.08.00:453][753]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.08.06:670][100]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/ArtAssets/Sprites/Background_Sprite.Background_Sprite
+[2019.11.24-23.08.43:493][706]Cmd: TRANSACTION UNDO
+[2019.11.24-23.08.43:493][706]LogEditorTransaction: Undo Edit Y
+[2019.11.24-23.08.49:264][758]Cmd: TRANSACTION UNDO
+[2019.11.24-23.08.49:264][758]LogEditorTransaction: Undo Edit X
+[2019.11.24-23.09.21:406][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.09.36:246][252]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.11.24-23.10.08:054][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.10.08:120][108]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-23.10.08:160][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.10.08:160][108]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.24-23.10.08:210][108]LogPlayLevel: [PlayLevel] Compiling BP_EnemyB before play...
+[2019.11.24-23.10.08:353][108]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2019.11.24-23.10.08:353][108]LogPlayLevel: PlayLevel: Blueprint regeneration took 193 ms (1 blueprints)
+[2019.11.24-23.10.08:353][108]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 7:10:08 AM)
+[2019.11.24-23.10.08:353][108]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-23.10.08:393][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039539s)
+[2019.11.24-23.10.08:394][108]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-23.10.08:394][108]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2019.11.24-23.10.08:394][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.040776s)
+[2019.11.24-23.10.08:618][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.11.24-23.10.08:709][108]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-23.10.10:322][108]LogInit: FAudioDevice initialized.
+[2019.11.24-23.10.10:628][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-23.10.10:628][108]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-23.10.10:630][108]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-15.10.10
+[2019.11.24-23.10.10:703][108]LogWorld: Bringing up level for play took: 0.074248
+[2019.11.24-23.10.10:703][108]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2019.11.24-23.10.10:768][108]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 1.867
+[2019.11.24-23.10.10:768][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.10.10:967][110]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.126865 > MaxSimulationTimeStep (0.050) for 'BP_EnemyC_2', movement 'Walking'
+[2019.11.24-23.10.14:353][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.10.14:354][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-23.10.14:354][312]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-23.10.14:367][312]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-23.10.14:370][312]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.10.14:381][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-23.10.14:381][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.10.14:462][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.11.24-23.10.14:483][313]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2019.11.24-23.10.17:733][504]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.11.24-23.10.24:982][933]Cmd: TRANSACTION UNDO
+[2019.11.24-23.10.24:982][933]LogEditorTransaction: Undo Move Actors
+[2019.11.24-23.10.27:254][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.10.37:031][641]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LeftEdge)
+[2019.11.24-23.10.42:717][979]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RightEdge)
+[2019.11.24-23.10.52:160][536]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.11.24-23.10.53:402][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.10.56:800][805]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-23.10.56:814][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.10.56:814][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-23.10.56:814][805]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 7:10:56 AM)
+[2019.11.24-23.10.56:814][805]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-23.10.56:817][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002968s)
+[2019.11.24-23.10.56:818][805]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-23.10.56:818][805]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2019.11.24-23.10.56:818][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004240s)
+[2019.11.24-23.10.56:851][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.24-23.10.56:854][805]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-23.10.56:862][805]LogInit: FAudioDevice initialized.
+[2019.11.24-23.10.56:865][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-23.10.56:866][805]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-23.10.56:867][805]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-15.10.56
+[2019.11.24-23.10.56:884][805]LogWorld: Bringing up level for play took: 0.017588
+[2019.11.24-23.10.56:884][805]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2019.11.24-23.10.56:888][805]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.012
+[2019.11.24-23.10.56:889][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.11.00:251][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.11.00:252][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-23.11.00:252][  2]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-23.11.00:282][  2]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-23.11.00:285][  2]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.11.00:292][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-23.11.00:292][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.11.00:338][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.11.24-23.11.00:353][  3]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2019.11.24-23.11.06:419][365]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.11.24-23.11.10:888][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.24-23.11.14:224][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.11.14:273][826]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-23.11.14:286][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.11.14:286][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-23.11.14:286][826]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 7:11:14 AM)
+[2019.11.24-23.11.14:287][826]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-23.11.14:289][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002784s)
+[2019.11.24-23.11.14:290][826]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-23.11.14:291][826]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2019.11.24-23.11.14:291][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004170s)
+[2019.11.24-23.11.14:324][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.24-23.11.14:326][826]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-23.11.14:334][826]LogInit: FAudioDevice initialized.
+[2019.11.24-23.11.14:337][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-23.11.14:338][826]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-23.11.14:339][826]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-15.11.14
+[2019.11.24-23.11.14:339][826]LogWorld: Bringing up level for play took: 0.001179
+[2019.11.24-23.11.14:339][826]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2019.11.24-23.11.14:345][826]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.555
+[2019.11.24-23.11.14:346][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.11.16:875][975]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.11.16:875][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-23.11.16:875][975]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-23.11.16:891][975]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-23.11.16:900][975]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.11.16:911][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-23.11.16:911][975]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.11.16:954][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.24-23.11.16:990][977]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.11.24-23.11.26:391][540]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.11.24-23.11.33:016][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.24-23.11.51:533][ 11]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.24-23.11.51:546][ 11]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.11.51:546][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.24-23.11.51:546][ 11]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 7:11:51 AM)
+[2019.11.24-23.11.51:547][ 11]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-23.11.51:550][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002895s)
+[2019.11.24-23.11.51:550][ 11]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.24-23.11.51:551][ 11]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2019.11.24-23.11.51:551][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004010s)
+[2019.11.24-23.11.51:582][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.24-23.11.51:584][ 11]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.24-23.11.51:592][ 11]LogInit: FAudioDevice initialized.
+[2019.11.24-23.11.51:595][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-23.11.51:595][ 11]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.24-23.11.51:596][ 11]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-15.11.51
+[2019.11.24-23.11.51:597][ 11]LogWorld: Bringing up level for play took: 0.001260
+[2019.11.24-23.11.51:597][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2019.11.24-23.11.51:603][ 11]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 0.702
+[2019.11.24-23.11.51:603][ 11]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.12.05:031][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.12.05:032][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.24-23.12.05:032][814]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.24-23.12.05:047][814]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.24-23.12.05:050][814]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-23.12.05:063][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.24-23.12.05:064][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.24-23.12.05:109][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.11.24-23.12.05:131][815]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2019.11.24-23.12.29:689][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.13.05:086][358]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LeftEdge)
+[2019.11.24-23.13.20:876][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.24-23.13.30:237][856]LogEditorViewport: Clicking Background
+[2019.11.24-23.13.33:377][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.24-23.13.33:463][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.11.24-23.13.34:541][ 46]LogSlate: Window 'Save Content' being destroyed
+[2019.11.24-23.13.34:548][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.24-23.13.34:657][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.24-23.13.34:723][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.11.24-23.13.34:905][ 46]LogSavePackage: Moving '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Saved/Base_Map1169465ED4FDCB56DDDEEE4AAA8184C44.tmp' to '../../../../../../Users/XxCMGxX/Documents/Unreal Projects/GameJam---Isekai/TrappednAnotherWorld/Content/BlueprintsAndMaps/Maps/Base_Map1.umap'
+[2019.11.24-23.13.34:966][ 46]LogFileHelpers: Saving map 'Base_Map1' took 0.283
