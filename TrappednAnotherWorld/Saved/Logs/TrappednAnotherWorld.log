@@ -4585,3 +4585,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.24-04.36.04:355][935]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2019.11.24-04.36.06:452][935]LogSlate: Window 'TrappednAnotherWorld - Unreal Editor' being destroyed
 [2019.11.24-04.36.06:723][935]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.24-04.36.44:259][936]Cmd: QUIT_EDITOR
+[2019.11.24-04.36.50:243][936]LogExit: Preparing to exit.
+[2019.11.24-04.36.58:462][936]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-04.36.58:462][936]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-04.36.58:462][936]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-04.36.58:462][936]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-04.36.58:462][936]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-04.36.58:462][936]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-04.36.58:462][936]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-04.36.58:462][936]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-04.36.58:462][936]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-04.37.03:023][936]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.24-04.37.07:703][936]LogExit: Editor shut down
+[2019.11.24-04.37.08:014][936]LogExit: Transaction tracking system shut down
