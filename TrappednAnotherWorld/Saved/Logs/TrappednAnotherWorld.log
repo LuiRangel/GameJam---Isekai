@@ -2760,3 +2760,70 @@ Script Stack (0 frames):
 [2019.11.25-04.57.29:675][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
 [2019.11.25-04.57.29:722][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
 [2019.11.25-04.57.29:738][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.11.25-04.59.06:282][752]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.25-04.59.06:312][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.25-04.59.06:312][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.25-04.59.06:312][752]PIE: New page: PIE session: Base_Map1 (Nov 24, 2019, 12:59:06 PM)
+[2019.11.25-04.59.06:312][752]LogPlayLevel: Creating play world package: /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.25-04.59.06:315][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003034s)
+[2019.11.25-04.59.06:316][752]LogAIModule: Creating AISystem for world Base_Map1
+[2019.11.25-04.59.06:316][752]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2019.11.25-04.59.06:317][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1 to /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 (0.004241s)
+[2019.11.25-04.59.06:357][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.11.25-04.59.06:360][752]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.25-04.59.06:366][752]LogInit: FAudioDevice initialized.
+[2019.11.25-04.59.06:371][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.59.06:371][752]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.25-04.59.06:372][752]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1.Base_Map1 up for play (max tick rate 60) at 2019.11.24-20.59.06
+[2019.11.25-04.59.06:373][752]LogWorld: Bringing up level for play took: 0.001735
+[2019.11.25-04.59.06:373][752]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2019.11.25-04.59.06:378][752]PIE: Play in editor start time for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1 -0.523
+[2019.11.25-04.59.06:378][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.25-04.59.08:760][893]LogNet: Browse: /Game/BlueprintsAndMaps/Maps/MainMenu
+[2019.11.25-04.59.08:760][893]LogLoad: LoadMap: /Game/BlueprintsAndMaps/Maps/MainMenu
+[2019.11.25-04.59.08:760][893]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_Base_Map1
+[2019.11.25-04.59.08:760][893]LogWorld: UWorld::CleanupWorld for Base_Map1, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-04.59.08:803][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.11.25-04.59.08:811][893]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.25-04.59.08:811][893]LogLoad: Game class is 'GameModeBase'
+[2019.11.25-04.59.08:812][893]LogWorld: Bringing World /Game/BlueprintsAndMaps/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.11.24-20.59.08
+[2019.11.25-04.59.08:812][893]LogWorld: Bringing up level for play took: 0.000474
+[2019.11.25-04.59.08:813][893]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.25-04.59.08:813][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.59.08:814][893]LogLoad: Took 0.054419 seconds to LoadMap(/Game/BlueprintsAndMaps/Maps/MainMenu)
+[2019.11.25-04.59.10:060][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.25-04.59.10:061][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.59.10:061][968]LogWorld: BeginTearingDown for /Game/BlueprintsAndMaps/Maps/UEDPIE_0_MainMenu
+[2019.11.25-04.59.10:075][968]LogSlate: Window 'TrappednAnotherWorld Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.25-04.59.10:080][968]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-04.59.10:087][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.25-04.59.10:087][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel' has LevelScriptBlueprint '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1' with GeneratedClass '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1_C' with ClassGeneratedBy '/Game/BlueprintsAndMaps/Maps/Base_Map1.Base_Map1:PersistentLevel.Base_Map1'
+[2019.11.25-04.59.10:132][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.11.25-04.59.10:169][970]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.11.25-04.59.40:963][789]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.11.25-04.59.49:954][789]LogSlate: Window 'Submit Files' being destroyed
+[2019.11.25-04.59.50:556][789]LogSourceControl: commit successful: [master e601634] misc
+[2019.11.25-04.59.50:773][789]SourceControl: [master e601634] misc
+[2019.11.25-04.59.50:773][789]SourceControl:  6 files changed, 0 insertions(+), 0 deletions(-)
+[2019.11.25-04.59.50:773][789]SourceControl:  create mode 100644 TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/Attacks/BP_ShotEnemy.uasset
+[2019.11.25-04.59.50:773][789]SourceControl:  create mode 100644 TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/Attacks/BP_ShotPlayer.uasset
+[2019.11.25-04.59.50:773][789]SourceControl:  create mode 100644 TrappednAnotherWorld/Content/BlueprintsAndMaps/Blueprints/BP_EnemySpawner.uasset
+[2019.11.25-04.59.50:773][789]SourceControl:  rewrite TrappednAnotherWorld/Content/BlueprintsAndMaps/Maps/MainMenu.umap (73%)
+[2019.11.25-04.59.50:773][789]SourceControl:  create mode 100644 TrappednAnotherWorld/Content/BlueprintsAndMaps/Maps/SpawnTestMap.umap
+[2019.11.25-04.59.50:776][789]SourceControl: Commited [master e601634] misc.
+[2019.11.25-05.00.03:181][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.11.25-05.00.03:673][966]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-05.00.03:739][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.25-05.00.03:739][966]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-05.00.03:792][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.25-05.00.03:792][966]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-05.00.03:869][966]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-05.00.03:881][966]LogSlate: Window 'TrappednAnotherWorld - Unreal Editor' being destroyed
+[2019.11.25-05.00.03:918][966]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.25-05.00.05:498][967]Cmd: QUIT_EDITOR
+[2019.11.25-05.00.08:166][967]LogExit: Preparing to exit.
+[2019.11.25-05.00.15:075][967]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-05.00.17:616][967]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.25-05.00.19:623][967]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-05.00.19:623][967]LogExit: Editor shut down
+[2019.11.25-05.00.19:646][967]LogExit: Transaction tracking system shut down
